@@ -1,0 +1,18 @@
+{
+  "title": "New Product",
+  "price": 10,
+  "description": "A description",
+  "images": [
+    "https://placeimg.com/640/480/any"
+  ],
+  "category": {
+    "id": 1,
+    "name": "General Hardware",
+    "image": "https://picsum.photos/640/640?r=2732",
+    "creationAt": "#ignore",
+    "updatedAt": "#ignore"
+  },
+  "id": "#number",
+  "creationAt": "#ignore",
+  "updatedAt": "#ignore"
+}
